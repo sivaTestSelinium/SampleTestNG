@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Step 1:-browser lunched sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Step 2:-perPersonal Details text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 3:- Emergency Contacts text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 4:- Dependents text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 5:- Immigration text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 6:- job text displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 7:- salary text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 8:- Report-to text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 9:- Qualifications text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 10:- Memberships text is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 11:-Personal DetailsPersonal Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 12:-Contact DetailsContact Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 14:-Assigned DependentsDependents Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 15:-Assigned Immigration RecordsImmigration Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 16:-JobJob Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 17:-Assigned Salary ComponentsSalary Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 18:-Assigned SupervisorsReport Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 19:-Work ExperienceQualifications Details sucessfully displayed]]>
+    </line>
+    <line>
+      <![CDATA[Step 20:-Assigned Memberships Memberships sucessfully displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43169" started-at="2020-01-29T03:09:16Z" finished-at="2020-01-29T03:09:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43169" started-at="2020-01-29T03:09:16Z" finished-at="2020-01-29T03:09:59Z">
+      <class name="com.selinium.hrm.HRMscript">
+        <test-method status="PASS" signature="openbrowser(java.lang.String)[pri:0, instance:com.selinium.hrm.HRMscript@7085bdee]" name="openbrowser" is-config="true" duration-ms="16949" started-at="2020-01-29T08:39:16Z" finished-at="2020-01-29T08:39:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="leftsideinfo()[pri:1, instance:com.selinium.hrm.HRMscript@7085bdee]" name="leftsideinfo" duration-ms="25773" started-at="2020-01-29T08:39:33Z" finished-at="2020-01-29T08:39:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:-browser lunched sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Step 2:-perPersonal Details text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 3:- Emergency Contacts text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 4:- Dependents text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 5:- Immigration text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 6:- job text displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 7:- salary text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 8:- Report-to text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 9:- Qualifications text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 10:- Memberships text is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 11:-Personal DetailsPersonal Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 12:-Contact DetailsContact Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 14:-Assigned DependentsDependents Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 15:-Assigned Immigration RecordsImmigration Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 16:-JobJob Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 17:-Assigned Salary ComponentsSalary Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 18:-Assigned SupervisorsReport Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 19:-Work ExperienceQualifications Details sucessfully displayed]]>
+            </line>
+            <line>
+              <![CDATA[Step 20:-Assigned Memberships Memberships sucessfully displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- leftsideinfo -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.selinium.hrm.HRMscript@7085bdee]" name="closebrowser" is-config="true" duration-ms="420" started-at="2020-01-29T08:39:59Z" finished-at="2020-01-29T08:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.selinium.hrm.HRMscript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
