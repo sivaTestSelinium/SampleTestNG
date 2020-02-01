@@ -23,5 +23,14 @@ public class Screen
 File file=	ts.getScreenshotAs(OutputType.FILE);
 	FileUtils.copyFile(file, new File("E:\\gmailhomepage.jpeg"));
 
+	
+	
+	}
+	
+	public void ScreenGoogle() throws IOException
+	{
+		WebDriver d=new FirefoxDriver();
+	d.manage().window().maximize();
+	d.get("http://www.google.com");
 	}
 }
